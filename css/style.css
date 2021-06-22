@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Benne&display=swap');
+
+h1 {
+  text-align: center;
+  margin: 0rem;
+  border: 0rem;
+  padding: 0rem;
+  font-family: 'Benne', serif;
+  font-size: 2rem;
+  font-style: normal;
+}
+
+h2 {
+  text-align: center;
+  margin: 0rem;
+  border: 0rem;
+  padding: 0rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  font-style: italic;
+}
+
+p {
+  margin: 0rem;
+  padding: 1rem;
+  text-align: justify;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+  color: white;
+  border: 0rem;
+  margin: 0rem;
+  padding: 0rem;
+}
+
+#cabecalho {
+  height: 40px;
+  background-color: #bdbbbb;
+  margin: 0rem;
+  border: 0rem;
+  padding: 1rem;
+}
+
+#conteudo {
+  height: 550px;
+  background-color: #797066;
+}
+
+.container {
+  position: relative;
+  display: block;
+}
+.video {
+  position: absolute;
+  left: 210px;
+}
+
+.curiosidades {
+  position: absolute;
+  top: 430px;
+  left: 550px;
+}
+
+.bg {
+  background-image: url('https://www.mochileiros.com/uploads/monthly_2013_07/spsps.jpg.0bd789d7a23d3c830c7eebb07e638b2f.jpg');
+  background-size: cover;
+}
+
+#rodape {
+  height: 60px;
+  background-color: rgb(220, 220, 220);
+}
+
+.icones {
+  height: 40px;
+  position: absolute;
+  top: 10px;
+}
+
+#insta {
+  position: absolute;
+  left: 650px;
+}
+
+#youtube {
+  position: absolute;
+  left: 700px;
+}
